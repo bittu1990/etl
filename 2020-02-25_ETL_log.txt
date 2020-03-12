@@ -1,0 +1,13 @@
+2020-02-25 09:59:24.273724,Success,NA,Address,0
+2020-02-25 09:59:24.328056,Success,NA,Company,0
+2020-02-25 10:00:06.204837,Success,NA,Address,0
+2020-02-25 10:00:06.212246,Success,NA,Company,0
+2020-02-25 10:01:31.048497,Failed,(psycopg2.OperationalError) FATAL:  database "target1" does not exist
+
+(Background on this error at: http://sqlalche.me/e/e3q8),NA,0
+2020-02-25 10:02:05.315712,Success,NA,Address,0
+2020-02-25 10:02:05.324602,Success,NA,Company,0
+2020-02-25 10:02:31.405810,Success,NA,Address,0
+2020-02-25 10:02:31.416857,Success,NA,Company,0
+2020-02-25 10:05:39.872118,Success,NA,Address,0
+2020-02-25 10:05:39.883392,Success,NA,Company,0

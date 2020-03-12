@@ -1,0 +1,18 @@
+2020-02-24 09:32:41.284517,Failed,(psycopg2.OperationalError) FATAL:  database "source1" does not exist
+
+(Background on this error at: http://sqlalche.me/e/e3q8),NA,0
+2020-02-24 09:33:02.466747,Failed,(psycopg2.OperationalError) FATAL:  database "target1" does not exist
+
+(Background on this error at: http://sqlalche.me/e/e3q8),NA,0
+2020-02-24 09:36:23.782876,Success,NA,Address,99
+2020-02-24 09:36:23.900126,Success,NA,Company,100
+2020-02-24 09:36:40.848907,Success,NA,Address,0
+2020-02-24 09:36:40.867096,Success,NA,Company,0
+2020-02-24 09:37:24.584904,Success,NA,Address,0
+2020-02-24 09:37:24.593080,Success,NA,Company,1
+2020-02-24 10:02:07.391639,Success,NA,Address,1
+2020-02-24 10:02:07.403066,Success,NA,Company,1
+2020-02-24 10:02:37.164890,Success,NA,Address,0
+2020-02-24 10:02:37.180846,Success,NA,Company,0
+2020-02-24 10:15:24.025558,Success,NA,Address,0
+2020-02-24 10:15:24.033866,Success,NA,Company,0
